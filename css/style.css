@@ -1,0 +1,21 @@
+
+h1 {
+	font-family: sans-serif;
+	margin-bottom: 20px;
+}
+
+.ba-container {
+	display: block;
+	width: 1200px;
+	margin: 30px auto 35px;
+}
+
+.small-row + .small-row {
+    margin: 15px -20px;
+}
+
+
+.yellow-block {
+	margin-bottom: -20px;
+	max-width: 305px;
+}
